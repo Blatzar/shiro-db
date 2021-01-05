@@ -1,18 +1,19 @@
 [
-{"id": "496646f2ac618b8b76eb6d2e643601fc", "name":"Dev Release build ID"},
-{"id": "72c145b93bfab8d9b741440e572da0ad", "name":"Dev Debug build ID"},
-{"id": "6cc3fab5e7adee569efce0a2c7f23762", "name":"Dev android 6"},
+{"id": "496646f2ac618b8b76eb6d2e6436", "name":"Dev"},
 {"id": "d40161d018dc10830a6ef2841485a26e", "name":"Friend of Dev"},
 {"id": "f52a6d86c3fb31fcb86c4e41a09fb5bf", "name":"weeeeee"},
 {"id": "be8411b26dd8fa93e0eae7fa1e9d5a37", "name":"sawanoo"},
 {"id": "d39040cde4c0d0d860871c8043ab8293", "name":"Runley"},
+{"id": "b119fbf46fc61d625b902ee51f268c38", "name":"TimeforaStory"},
 {"id": "649d7a14cfd016e6d06e4bcd8f2619b6", "name":"Marek"},
-{"id": "4207075998525f85d17ee58e064e13da", "name":"Nate (the nut)"},
+{"id": "4207075998525f85d17ee58e064e13da", "name":"Nate the nut"},
 {"id": "f6af62a66800d70c3861aeb76753b6b8", "name":"EmpAry"},
 {"id": "98bcf3caca7192b7e02fa3de7d3cb6a3", "name":"Arjix"},
 {"id": "05c6852d8be662bd6734c26171944257", "name":"Monke"},
 {"id": "c10d4042ed7c7b60c6b2429c83981a39", "name":"Phantom"},
 {"id": "e084bdd96d5057e743c84c35c59a5a61", "name":"General Lee"},
 {"id": "790cfa83ca0d314e27080f8b761b5dc0", "name":"Kuromukuro"},
-{"id": "8dfbd4f2cd69c7a958df933ca1e7f9a3", "name":"CrazyClone55"}
+{"id": "7fec9ad211a17438970dd8af37a43b48", "name":"Kuromukuro phone"},
+{"id": "6cc3fab5e7adee569efce0a2c7f23762", "name": "Dev android 6"},
+{"id": "8dfbd4f2cd69c7a958df933ca1e7f9a3", "name": "CrazyClone55"}
 ]
